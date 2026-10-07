@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Generated simulation data
+data/
+*.npz
+current_flow_field.dat
+History_*.json
+Statistic_*.json
